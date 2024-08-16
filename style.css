@@ -1,0 +1,42 @@
+body{
+    font-family: "Roboto", sans-serif;
+}
+.car-prorerty{
+    background-image: linear-gradient(rgb(194, 197, 197),rgb(253, 252, 252));
+    border: 1px solid rgb(251, 251, 251);
+}
+/* .hover-effect:hover{
+    color: rgb(255, 111, 0);
+} */
+.form{
+    height: 45px;
+    width: 260px;
+    transition: 0.4s;
+}
+.form:focus{
+    outline: 3px solid aqua;
+    border: none;
+}
+.search{
+    height: 45px;
+    /* width: 500px; */
+    margin-left: 15px;
+}
+/*-----------------------------Nav3--------------------------------*/
+.nav-hover:hover{
+    color:rgb(8, 170, 170) !important;
+}
+/*-------------------------All Categories-----------------------*/
+.box{
+    width: 100px;
+}
+/*------------------------Footer-----------------------------*/
+.footer-bg1{
+    background-color: rgba(0, 47, 52, .03);
+}
+.footer-bg2{
+    background-color: #ebeeef;
+}
+.footer-bg3{
+    background-color: #002f34;
+}
